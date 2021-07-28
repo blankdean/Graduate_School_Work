@@ -11,4 +11,4 @@ A summary of projects I have done for my computer science masters at Georgia Tec
 * Multithreaded Distributed file system using socket/network programming and GRPC
 
 ## Embedded Software Optimization
-* Compiler instruction scheduler that that converts sequential assembly code to fit a VLIW aechitecture, using Chaitin's graph coloring algorthm
+* Compiler instruction scheduler that that converts sequential assembly code to fit a VLIW architecture, using Chaitin's graph coloring algorthm
